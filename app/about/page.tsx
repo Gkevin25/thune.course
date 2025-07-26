@@ -74,19 +74,19 @@ export default function AboutPage() {
               <h2 className="text-4xl font-bold text-gray-900">Our Story</h2>
               <div className="space-y-4 text-gray-600 leading-relaxed">
                 <p>
-                  CourseCreator Pro was born from frustration. Our founders, Sarah and Michael, were successful online
-                  educators who spent more time wrestling with technology than creating content. They knew there had to
-                  be a better way.
+                  Growing up, my brother and I always dreamed of building something meaningful together that could impact people's lives. 
+                  We watched countless talented individuals struggle to share their expertise online, not because they lacked knowledge, but because the technical barriers seemed insurmountable.
+                  Every time we saw a skilled professional give up on their online course idea due to website complexities, hosting headaches, or technical frustrations, we knew there had to be a better way.
                 </p>
                 <p>
-                  After helping hundreds of creators launch their courses, they realized that the biggest barrier wasn't
-                  lack of expertise or passion—it was the overwhelming technical complexity of building and maintaining
-                  an online course platform.
+                 That's when we decided to combine our skills and passion to create a solution. 
+                 We envisioned a platform where educators, coaches, and experts could focus entirely on what they do best – creating exceptional content – while we handle all the technical heavy lifting behind the scenes.
+                  Our course creator platform was born from this simple belief: knowledge sharing shouldn't be limited by technical know-how.
                 </p>
                 <p>
-                  In 2022, they decided to build the platform they wished they'd had when starting their own journey.
-                  Today, CourseCreator Pro powers over 10,000 successful course creators worldwide, generating millions
-                  in revenue for our community.
+                 Today, we're proud to offer a seamless solution that transforms your expertise into a professional online course with just a few clicks. 
+                 No coding, no hosting worries, no technical headaches – just pure focus on creating and sharing your valuable knowledge with the world.
+                  Together, we're making online education accessible to creators everywhere, one course at a time.
                 </p>
               </div>
             </div>
