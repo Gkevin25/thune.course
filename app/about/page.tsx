@@ -31,13 +31,13 @@ const values = [
 
 const team = [
   {
-    name: "Gnowa Rickneil",
+    name: "Gnowa Kevin",
     role: "CEO & Co-Founder",
-    bio: "Former online educator with 10+ years of experience building successful course businesses.",
+    bio: "Former online educator building successful course businesses.",
     image: "/placeholder.svg?height=300&width=300",
   },
   {
-    name: "Gnowa Kevin",
+    name: "Gnowa Rickneil",
     role: "CTO & Co-Founder",
     bio: "Tech veteran with expertise in scalable platforms and educational technology solutions.",
     image: "/placeholder.svg?height=300&width=300",

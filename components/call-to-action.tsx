@@ -6,7 +6,7 @@ export default function CallToAction() {
   return (
     <section className="py-24 bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 relative overflow-hidden">
       {/* Background Pattern */}
-      <div className="absolute inset-0 bg-[url('/placeholder.svg?height=800&width=800')] opacity-5"></div>
+     
 
       <div className="container mx-auto px-4 relative">
         <div className="max-w-4xl mx-auto text-center">

@@ -6,8 +6,7 @@ export default function Hero() {
   return (
     <section className="relative min-h-screen bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 overflow-hidden">
       {/* Background Pattern */}
-      <div className="absolute inset-0 bg-[url('/placeholder.svg?height=800&width=800')] opacity-10"></div>
-
+     
       {/* Floating Elements */}
       <div className="absolute top-20 left-10 w-20 h-20 bg-purple-500/20 rounded-full blur-xl animate-pulse"></div>
       <div className="absolute top-40 right-20 w-32 h-32 bg-blue-500/20 rounded-full blur-xl animate-pulse delay-1000"></div>
@@ -50,7 +49,7 @@ export default function Hero() {
             </Button>
           </div>
 
-          <div className="flex items-center space-x-8 pt-8">
+          {/*<div className="flex items-center space-x-8 pt-8">
             <div className="text-center">
               <div className="text-3xl font-bold text-white">10K+</div>
               <div className="text-gray-400">Course Creators</div>
@@ -63,7 +62,7 @@ export default function Hero() {
               <div className="text-3xl font-bold text-white">99.9%</div>
               <div className="text-gray-400">Uptime</div>
             </div>
-          </div>
+          </div>*/}
         </div>
 
         <div className="lg:w-1/2 mt-12 lg:mt-0 relative">
